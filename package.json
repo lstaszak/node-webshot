@@ -22,9 +22,10 @@
     "node >=0.7.00"
   ],
   "dependencies": {
-    "graceful-fs": "~3.0.4",
-    "cross-spawn": "^0.2.3",
-    "tmp": "~0.0.25"
+    "graceful-fs": "3.0.4",
+    "cross-spawn": "0.2.3",
+    "tmp": "0.0.25",
+    "url": "0.10.3"
   },
   "optionalDependencies": {
     "phantomjs": "~1.9.7-1"
